@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+TechBlog: Your news. Your way.
 ---
 
